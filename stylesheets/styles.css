@@ -48,6 +48,7 @@ a small {
 .wrapper {
   width:860px;
   margin:0 auto;
+  color: "#0098b6";
 }
 
 blockquote {
@@ -188,7 +189,6 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
-    color: "#0098b6";
   }
   
   header, section, footer {
