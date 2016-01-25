@@ -188,7 +188,6 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
-    color: "#0098b6";
   }
   
   header, section, footer {
@@ -199,6 +198,7 @@ footer {
   
   header {
     padding-right:320px;
+    background-color: "#0098b6";
   }
   
   section {
