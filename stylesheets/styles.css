@@ -36,7 +36,13 @@ a {
   color:#060658;
   font-weight:400;
   text-decoration:none;
-  border: black solid 2px;
+}
+
+span {
+  border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	margin: auto;  
 }
 
 a small {
